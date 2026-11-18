@@ -1,0 +1,2 @@
+ZIP entpacken. index.html und den Ordner assets in das Hauptverzeichnis des GitHub-Repositories hochladen. Unter Settings > Pages: Deploy from a branch, main und / (root) wählen.
+Die Website und ihre Dateien sind öffentlich erreichbar.
