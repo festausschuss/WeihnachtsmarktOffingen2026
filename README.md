@@ -1,0 +1,1 @@
+# WeihnachtsmarktOffingen2026
